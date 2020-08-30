@@ -89,3 +89,4 @@ wheel==0.34.2
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.1.0
+os
